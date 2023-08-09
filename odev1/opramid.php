@@ -10,7 +10,6 @@ function triangle($o){
         echo "<br>";
         $i++;
     }
-
 }
 
 triangle(15);
