@@ -1,0 +1,17 @@
+body{
+    background-image:linear-gradient(to top,grey, black);
+    background-repeat: no-repeat;
+    height: 100vh;
+}
+
+
+#inp{
+    margin:50px auto 0px auto;
+    display:inline-block;
+    margin-left: 30%;
+
+} 
+#send{
+    margin:44px auto 0px auto;
+    display:inline-block;
+}
